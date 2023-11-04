@@ -2,3 +2,5 @@ manifest.json
 node_modules/
 dist/
 .eslintcache
+yarn.lock
+# i was using yarn for this so uh
